@@ -1,0 +1,2 @@
+# DANA_Prosper_Loan_EDA
+使用R语言对Prosper的贷款数据进行探索式分析，并且把分析结果做成报告
